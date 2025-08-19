@@ -1,0 +1,4 @@
+flask
+twilio
+mysql-connector-python
+python-dotenv
